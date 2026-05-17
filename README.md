@@ -26,7 +26,7 @@ The result is a single-page executive dashboard that answers not just *what* hap
 4. **Email & Referral Dominate Acquisition:** Email campaigns ($7.8K) and organic referrals ($7.5K) outperformed every paid channel, including Facebook and Instagram (both at $0.7K). This indicates high ROI from owned and earned channels relative to paid social spend.
 5. **Online Payment Leads at $299K:** Online transactions account for the largest payment volume, with Debit Card and Cash closely behind at $252K each. Combined, Online and Debit Card make up 44% of total sales volume — pointing to a digitally-engaged customer base.
 ---
-## 🛠️ Analytical Frameworks Applied
+##  Analytical Frameworks Applied
 * **Target Variance Analysis:** KPI cards display both absolute values and % deviation from targets, enabling immediate performance diagnosis.
 * **Pareto 80/20 Concentration Analysis:** Cumulative revenue distribution across product lines identifies the vital few driving the majority of results.
 * **Acquisition Funnel Benchmarking:** Referral source revenue comparison surfaces channel efficiency beyond raw traffic volume.
