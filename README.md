@@ -53,19 +53,19 @@ This solution was engineered to address five critical business problems where le
 Based on the insights surfaced by the dashboard, the following data-driven strategies are recommended to leadership:
 
 ### 1. Implement KPI Thresholds & Ownership
-> Implement a permanent KPI variance tracking layer (as engineered in this dashboard) that updates monthly and flags any metric falling below 95% of its target. Assign a dedicated metric owner to each KPI to drive corrective action immediately when thresholds are breached.
+ Implement a permanent KPI variance tracking layer (as engineered in this dashboard) that updates monthly and flags any metric falling below 95% of its target. Assign a dedicated metric owner to each KPI to drive corrective action immediately when thresholds are breached.
 
 ###  2. Execute Root-Cause & Seasonal Mitigation
-> Execute a root-cause analysis combining order volume, product mix, and customer churn data specifically for the Q3–Q4 pivot. Introduce a targeted Q3 promotional strategy (e.g., bundled offers, loyalty discounts) to counteract the seasonal dip, and monitor a newly established Q4 revenue floor weekly from October onward.
+ Execute a root-cause analysis combining order volume, product mix, and customer churn data specifically for the Q3–Q4 pivot. Introduce a targeted Q3 promotional strategy (e.g., bundled offers, loyalty discounts) to counteract the seasonal dip, and monitor a newly established Q4 revenue floor weekly from October onward.
 
 ###  3. Portfolio Diversification Roadmap
-> Develop a portfolio diversification roadmap aggressively targeting underperforming segments (Tablets, Monitors, and Phones). Deploy automated cross-sell triggers at checkout and within post-purchase email flows to lift attachment rates, aiming to reduce top-3 category concentration below 50% within 18 months.
+Develop a portfolio diversification roadmap aggressively targeting underperforming segments (Tablets, Monitors, and Phones). Deploy automated cross-sell triggers at checkout and within post-purchase email flows to lift attachment rates, aiming to reduce top-3 category concentration below 50% within 18 months.
 
 ### 4. Optimize Marketing Budget Allocation
-> Immediately reallocate a percentage of the paid social budget into advanced email automation and referral infrastructure. Build a structured referral incentive program to amplify existing organic word-of-mouth momentum, and establish a monthly channel ROI review to ensure capital dynamically follows performance.
+Immediately reallocate a percentage of the paid social budget into advanced email automation and referral infrastructure. Build a structured referral incentive program to amplify existing organic word-of-mouth momentum, and establish a monthly channel ROI review to ensure capital dynamically follows performance.
 
 ### 5. Deploy Cohort Retention Tracking
-> Enrich the analytics architecture with a cohort retention layer tracking repeat purchase velocity by acquisition channel. Establish a baseline 90-day repeat purchase target (e.g., 30% retention). For channels falling short, trigger a post-purchase nurture email sequence targeting first-time buyers within 14 days of their initial transaction.
+Enrich the analytics architecture with a cohort retention layer tracking repeat purchase velocity by acquisition channel. Establish a baseline 90-day repeat purchase target (e.g., 30% retention). For channels falling short, trigger a post-purchase nurture email sequence targeting first-time buyers within 14 days of their initial transaction.
 
 ##  Analytical Frameworks Applied
 * **Target Variance Analysis:** KPI cards display both absolute values and % deviation from targets, enabling immediate performance diagnosis.
