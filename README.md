@@ -46,7 +46,7 @@ This solution was engineered to address five critical business problems where le
 3. **Portfolio Concentration Risk:** Three product lines — *Chairs, Printers, and Laptops* — account for 61% of total revenue. While this concentration reflects strong performers, it creates dependency risk. Cross-selling Tablets, Monitors, and Phones represents a tangible diversification opportunity.
 4. **Email & Referral Dominate Acquisition:** Email campaigns ($7.8K) and organic referrals ($7.5K) outperformed every paid channel, including Facebook and Instagram (both at $0.7K). This indicates high ROI from owned and earned channels relative to paid social spend.
 5. **Online Payment Leads at $299K:** Online transactions account for the largest payment volume, with Debit Card and Cash closely behind at $252K each. Combined, Online and Debit Card make up 44% of total sales volume — pointing to a digitally-engaged customer base.
----
+
 
 ## Strategic Recommendations
 
