@@ -4,7 +4,7 @@ A strategic Business Intelligence solution built in **Microsoft Power BI** to an
 ![Dashboard Executive Summary](assets/dashboard_screenshot.png)
 
 ---
-## 📌 Project Overview
+##  Project Overview
 This project goes beyond standard metric tracking. It implements enterprise-grade analytical frameworks—including target variance benchmarking, Pareto concentration analysis, and acquisition channel evaluation—to surface the insights that actually drive decisions. 
 The result is a single-page executive dashboard that answers not just *what* happened in 2023, but *why* it matters and *where* to act next.
 ### Key Performance Results (2023)
@@ -19,7 +19,7 @@ The result is a single-page executive dashboard that answers not just *what* hap
 
 > **Note:** All five KPIs exceeded or met targets for the full year.
 ---
-## 📊 Strategic Insights
+##  Strategic Insights
 1. **Broad Target Outperformance:** Annual revenue exceeded forecasts by 9.33%, driven significantly by customer acquisition outperforming its baseline by 14.47%. This suggests the top-of-funnel strategy was well-calibrated.
 2. **Q4 Revenue Contraction (-35%):** Revenue peaked in June before declining sharply through Q4. This seasonal pattern signals a clear opportunity for year-end promotional strategy, targeted retention campaigns, or bundled product offers timed for Q3-Q4.
 3. **Portfolio Concentration Risk:** Three product lines — *Chairs, Printers, and Laptops* — account for 61% of total revenue. While this concentration reflects strong performers, it creates dependency risk. Cross-selling Tablets, Monitors, and Phones represents a tangible diversification opportunity.
@@ -32,7 +32,7 @@ The result is a single-page executive dashboard that answers not just *what* hap
 * **Acquisition Funnel Benchmarking:** Referral source revenue comparison surfaces channel efficiency beyond raw traffic volume.
 * **Dynamic Narrative Headers:** Chart subtitles communicate the data story dynamically (e.g., *"Revenue Peak in June, Drops 35% in Q4"*) rather than using generic visual labels.
 ---
-## 💻 Tech Stack & Architecture
+##  Tech Stack & Architecture
 ### Tool Application
 * **Microsoft Power BI Desktop:** Dashboard design, publishing, and interactivity.
 * **Power Query (M Language):** Data transformation, cleansing pipeline, and optimization.
@@ -46,7 +46,7 @@ The data architecture follows a **Star Schema** pattern to ensure efficient filt
 * **Scope:** January – December 2023 (full year).
 * **Grain:** Individual order-level transactions.
 ---
-## 🚀 How to Explore This Project
+## How to Explore This Project
 1. **Clone the Repository:**
    ```bash
    git clone [https://github.com/komobolaji20-droid/Executive-E-Commerce-Insight-Revenue-Profit-Performance-2023-.git](https://github.com/komobolaji20-droid/Executive-E-Commerce-Insight-Revenue-Profit-Performance-2023-.git)
