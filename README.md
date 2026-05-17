@@ -1,7 +1,8 @@
 # Executive E-Commerce Insight: Revenue & Profit Performance (2023)
-A strategic Business Intelligence solution built in **Microsoft Power BI**, designed to give organizational leadership immediate, data-driven clarity on sales performance, profitability, and customer acquisition  
-🔗 ***[Decode lab visu original_202605172019_1.png](#)** **
-🖼️ **[View Portfolio Overview](#)** **
+A strategic Business Intelligence solution built in **Microsoft Power BI** to analyze sales performance, profitability, and customer acquisition.
+
+![Dashboard Executive Summary](assets/dashboard_screenshot.png)
+
 ---
 ## 📌 Project Overview
 This project goes beyond standard metric tracking. It implements enterprise-grade analytical frameworks—including target variance benchmarking, Pareto concentration analysis, and acquisition channel evaluation—to surface the insights that actually drive decisions. 
